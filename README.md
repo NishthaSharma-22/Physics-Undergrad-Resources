@@ -4,6 +4,8 @@ This is supposed to be a collection of free and accessible online resources for 
 
 Whether you're an undergrad, self-learner, or just someone fascinated by physics, hopefully, you might find these helpful!
 
+## 1. [Classical Mechanics](Classical-Mechanics.md)
+
 ## 🤝 Contributions
 
 This is a collaborative project. Contributions are encouraged to improve and expand the repository.
