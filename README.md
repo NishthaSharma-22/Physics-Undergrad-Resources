@@ -6,6 +6,8 @@ Whether you're an undergrad, self-learner, or just someone fascinated by physics
 
 ## 1. [Classical Mechanics](Classical-Mechanics.md)
 
+## 2. [Electromagnetism](Electromagnetism.md)
+
 ## 🤝 Contributions
 
 This is a collaborative project. Contributions are encouraged to improve and expand the repository.
